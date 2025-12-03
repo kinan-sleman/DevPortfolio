@@ -17,15 +17,15 @@ export const metadata: Metadata = {
         "email contact",
         "social media contact"
     ],
-    authors: [{ name: "Kinan Sleman", url: "https://yourwebsite.com" }],
+    authors: [{ name: "Kinan Sleman", url: "https://dev-portfolio-kappa-two.vercel.app/" }],
     openGraph: {
         title: "Contact Us - Professional Web Development Services",
         description: "Reach out for web development services, project consultations, or support. Connect via email or social media.",
-        url: "https://yourwebsite.com/contact",
+        url: "https://dev-portfolio-kappa-two.vercel.app/contact",
         siteName: "Your Website",
         images: [
             {
-                url: "https://yourwebsite.com/og-contact.png",
+                url: "https://dev-portfolio-kappa-two.vercel.app/og-contact.png",
                 width: 1200,
                 height: 630,
                 alt: "Contact Professional Web Development Services"
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
         card: "summary_large_image",
         title: "Contact Us - Professional Web Development Services",
         description: "Get in touch with our team for web development inquiries, project consultations, or support.",
-        images: ["https://yourwebsite.com/og-contact.png"],
+        images: ["https://dev-portfolio-kappa-two.vercel.app/og-contact.png"],
         creator: "@YourTwitterHandle"
     }
 };

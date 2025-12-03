@@ -27,15 +27,15 @@ export const metadata: Metadata = {
         "Django",
         "Vue.js"
     ],
-    authors: [{ name: "Kinan Sleman", url: "https://yourwebsite.com" }],
+    authors: [{ name: "Kinan Sleman", url: "https://dev-portfolio-kappa-two.vercel.app/" }],
     openGraph: {
         title: "Professional Web Development Services - UI/UX, Backend & More",
         description: "Expert solutions for UI/UX, backend, SEO, AI, database management, and maintenance. Build your perfect website with professional web development services.",
-        url: "https://yourwebsite.com",
+        url: "https://dev-portfolio-kappa-two.vercel.app/",
         siteName: "Your Website",
         images: [
             {
-                url: "https://yourwebsite.com/og-image.png",
+                url: "https://dev-portfolio-kappa-two.vercel.app/og-image.png",
                 width: 1200,
                 height: 630,
                 alt: "Professional Web Development Services"
@@ -48,7 +48,7 @@ export const metadata: Metadata = {
         card: "summary_large_image",
         title: "Professional Web Development Services - UI/UX, Backend & More",
         description: "Expert web development solutions including UI/UX, backend, SEO, AI, database, and maintenance.",
-        images: ["https://yourwebsite.com/og-image.png"],
+        images: ["https://dev-portfolio-kappa-two.vercel.app/og-image.png"],
         creator: "@YourTwitterHandle"
     }
 };

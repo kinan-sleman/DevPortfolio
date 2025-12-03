@@ -16,15 +16,15 @@ export const metadata: Metadata = {
         "contact web developer",
         "professional web services"
     ],
-    authors: [{ name: "Kinan Sleman", url: "https://yourwebsite.com" }],
+    authors: [{ name: "Kinan Sleman", url: "https://dev-portfolio-kappa-two.vercel.app/" }],
     openGraph: {
         title: "Request a Service - Professional Web Development",
         description: "Submit your web development project request for UI/UX, backend, SEO, AI, database, or maintenance services. Get a personalized consultation.",
-        url: "https://yourwebsite.com/request-service",
+        url: "https://dev-portfolio-kappa-two.vercel.app/request-service",
         siteName: "Your Website",
         images: [
             {
-                url: "https://yourwebsite.com/og-request-service.png",
+                url: "https://dev-portfolio-kappa-two.vercel.app/og-request-service.png",
                 width: 1200,
                 height: 630,
                 alt: "Request Web Development Services"
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
         card: "summary_large_image",
         title: "Request a Service - Professional Web Development",
         description: "Submit your web development project request including UI/UX, backend, SEO, AI, database, or maintenance services.",
-        images: ["https://yourwebsite.com/og-request-service.png"],
+        images: ["https://dev-portfolio-kappa-two.vercel.app/og-request-service.png"],
         creator: "@YourTwitterHandle"
     }
 };
