@@ -1,0 +1,108 @@
+{
+    "Navbar": {
+        "logo": "DevPortfolio",
+        "home": "Home",
+        "requestService": "Request Service",
+        "contact": "Contact"
+    },
+    "Footer": {
+        "about": "DevPortfolio",
+        "aboutText": "Professional web development services tailored to your needs. Building modern, scalable, and efficient solutions.",
+        "quickLinks": "Quick Links",
+        "contact": "Contact",
+        "email": "Email",
+        "rights": "© {year} DevPortfolio. All rights reserved."
+    },
+    "Home": {
+        "heroTitle": "Professional Web Development",
+        "heroSubtitle": "Services",
+        "heroDescription": "Transforming ideas into powerful digital solutions with cutting-edge technologies and expert craftsmanship",
+        "cta": "Request a Service",
+        "servicesTitle": "Our Services",
+        "servicesSubtitle": "Comprehensive development solutions tailored to meet your business needs",
+        "technologiesTitle": "Technologies & Platforms",
+        "technologiesSubtitle": "Expertise in modern frameworks and programming languages",
+        "readyTitle": "Ready to Start Your Project?",
+        "readySubtitle": "Let's work together to bring your vision to life",
+        "services": {
+            "uiUx": {
+                "title": "UI/UX Development",
+                "description": "Creating beautiful, intuitive user interfaces with modern design principles and exceptional user experience."
+            },
+            "backend": {
+                "title": "Backend & API Development",
+                "description": "Building robust, scalable server-side applications and RESTful APIs for seamless data management."
+            },
+            "maintenance": {
+                "title": "Website Management & Maintenance",
+                "description": "Ongoing support, updates, and optimization to keep your website running smoothly and securely."
+            },
+            "seo": {
+                "title": "SEO Optimization",
+                "description": "Improving your website's visibility and ranking on search engines to drive organic traffic."
+            },
+            "ai": {
+                "title": "AI Search Optimization",
+                "description": "Leveraging AI technologies to enhance search functionality and user discovery on your platform."
+            },
+            "database": {
+                "title": "Database Development & Management",
+                "description": "Designing and managing efficient database systems for optimal data storage and retrieval."
+            }
+        }
+    },
+    "Contact": {
+        "title": "Contact Us",
+        "subtitle": "Get in touch and learn about our terms and policies",
+        "legalTerms": "Legal Terms & Conditions",
+        "projectOwnership": "Project File Ownership",
+        "projectOwnershipText": "All project files are delivered to the client upon completion. You receive full ownership of all source code, designs, and assets created for your project.",
+        "confidentiality": "Confidentiality & Non-Reuse",
+        "confidentialityText": "The developer has no right to reuse or redistribute the files created for your project. Your intellectual property is protected and remains exclusively yours.",
+        "paymentTerms": "Payment Terms",
+        "paymentTermsText": "50% of the total payment must be received before work begins on your project. The remaining 50% is due upon project completion and delivery.",
+        "contactInfo": "Contact Information",
+        "emailAddress": "Email Address",
+        "followUs": "Follow Us on Social Media",
+        "readyTitle": "Ready to Get Started?",
+        "readySubtitle": "Have a project in mind? Let's discuss how we can help bring it to life.",
+        "cta": "Request a Service"
+    },
+    "RequestService": {
+        "title": "Request a Service",
+        "subtitle": "Fill out the form below and we'll get back to you as soon as possible",
+        "personalInfo": "Personal Information",
+        "name": "Name",
+        "namePlaceholder": "Your full name",
+        "email": "Email",
+        "emailPlaceholder": "your.email@example.com",
+        "phone": "Phone",
+        "phoneOptional": "(Optional)",
+        "phonePlaceholder": "+1234567890",
+        "serviceDetails": "Service Details",
+        "selectService": "Select Service",
+        "chooseService": "Choose a service...",
+        "budget": "Budget",
+        "additionalInfo": "Additional Information",
+        "domainQuestion": "Do you already have a domain and hosting?",
+        "paymentQuestion": "Will the site include online payment?",
+        "yes": "Yes",
+        "no": "No",
+        "notes": "Additional Notes",
+        "notesPlaceholder": "Tell us more about your project...",
+        "submit": "Submit Request",
+        "sending": "Sending...",
+        "successMessage": "Your request has been sent successfully! We'll contact you soon.",
+        "errorMessage": "Failed to send request. Please try again.",
+        "genericError": "An error occurred. Please try again later.",
+        "Low": "Low",
+        "Medium": "Medium",
+        "High": "High",
+        "UI/UX Development": "UI/UX Development",
+        "Backend & API Development": "Backend & API Development",
+        "Website Management & Maintenance": "Website Management & Maintenance",
+        "SEO Optimization": "SEO Optimization",
+        "AI Search Optimization": "AI Search Optimization",
+        "Database Development & Management": "Database Development & Management"
+    }
+}

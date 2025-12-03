@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #1c3452;
+  --color-secondary: #dfd2d8;
+  --color-accent: #e9d385;
+  --color-extra1: #f1d025;
+  --color-extra2: #7da2a2;
+}
+
+@layer base {
+  body {
+    @apply bg-white text-gray-900;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
